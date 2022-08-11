@@ -1,0 +1,4 @@
+name: TripleLifeRecipes
+version: 1.0.0
+main: ovh.robinsnest.triplelife.TripleLife
+api-version: '1.19'
